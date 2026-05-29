@@ -7,7 +7,7 @@
 
 This system provides secure, offline biometric authentication for field personnel in remote locations with no internet connectivity. It performs facial recognition and liveness detection entirely on-device, with automatic data sync to AWS servers when network access is restored.
 
-**Live Application:** https://ai.studio/apps/32ccee8f-1b89-4104-8a54-95c3866e66cc
+**Live Application:** https://ai.studio/apps/32ccee8f-1b89-4104-8a54-95c3866e66cc?fullscreenApplet=true
 
 ---
 
