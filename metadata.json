@@ -1,0 +1,6 @@
+{
+  "name": "Offline Face Recognition and Biometrics",
+  "description": "Enterprise-grade offline-first facial recognition and liveness detection system for remote personnel authentication.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
